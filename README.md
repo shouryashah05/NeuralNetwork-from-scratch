@@ -441,6 +441,14 @@ SOFTWARE.
 
 ---
 
+## ⭐ Support This Project
+
+If you found this repository helpful or learned something new, please consider giving it a **star ⭐** — it helps others discover it and motivates me to keep building and sharing!
+
+> *“A star a day keeps the bugs away!”* 🐛✨
+
+---
+
 Built with curiosity, NumPy, and a lot of print statements.
 
 **Happy Learning!**
